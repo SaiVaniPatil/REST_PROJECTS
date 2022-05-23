@@ -1,0 +1,14 @@
+
+
+mismatched versions of tomcat and jersey
+
+java.lang.ClassNotFoundException: jakarta.servlet.Filter   ==> 
+location is changed between jersey 2* and 38 versions
+
+use jersey2* with tomcat9 
+and jersey 3* with tomcat10
+
+
+
+xml conversion not working
+https://localcoder.org/messagebodywriter-not-found-for-media-type-application-xml
